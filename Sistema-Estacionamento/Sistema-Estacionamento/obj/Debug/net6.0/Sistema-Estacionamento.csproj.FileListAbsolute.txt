@@ -1,0 +1,15 @@
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\bin\Debug\net6.0\Sistema-Estacionamento.exe
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\bin\Debug\net6.0\Sistema-Estacionamento.deps.json
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\bin\Debug\net6.0\Sistema-Estacionamento.runtimeconfig.json
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\bin\Debug\net6.0\Sistema-Estacionamento.dll
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\bin\Debug\net6.0\Sistema-Estacionamento.pdb
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\Sistema-Estacionamento.csproj.AssemblyReference.cache
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\Sistema-Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\Sistema-Estacionamento.AssemblyInfoInputs.cache
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\Sistema-Estacionamento.AssemblyInfo.cs
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\Sistema-Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\Sistema-Estacionamento.dll
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\refint\Sistema-Estacionamento.dll
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\Sistema-Estacionamento.pdb
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\Sistema-Estacionamento.genruntimeconfig.cache
+C:\Users\karol.benigno.borges\Desktop\New folder\Sistema-Estacionamento\Sistema-Estacionamento\obj\Debug\net6.0\ref\Sistema-Estacionamento.dll
